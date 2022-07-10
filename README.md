@@ -6,8 +6,8 @@
 - Passionate developer since the age of 11
 
 ### - My Goals:
-- Finish my Bachelor's degree
-- Join Master's degree in Cybersecurity at Università La Sapienza Roma
+- To finish my Bachelor's degree
+- To join Master's degree in Cybersecurity at Università degli Studi di Roma "La Sapienza" (University of Rome "La Sapienza")
 
 ### - My Work 🔭:
 - Owner and Developer of [Volt Scripts](https://twitter.com/volt_scripts)
