@@ -7,7 +7,7 @@
 
 ### - My Goals:
 - To finish my Bachelor's degree
-- To join Master's degree in Cybersecurity at Università degli Studi di Roma "La Sapienza" (University of Rome "La Sapienza")
+- To join Master's degree in "Engineering in Computer Science" at Università degli Studi di Roma "La Sapienza" (University of Rome "La Sapienza")
 
 ### - My Work 🔭:
 - Owner and Developer of [Volt Scripts](https://twitter.com/volt_scripts)
