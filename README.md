@@ -2,12 +2,12 @@
 
 # About Me ⚡:
 ### - My Background 💬:
-- Bachelor's degree student in Electronic Engineering at UniBo (University of Bologna)
+- Bachelor's degree in Electronics Engineering at UniBo (University of Bologna)
+- Master's degree student in "Engineering in Computer Science" at Università degli Studi di Roma "La Sapienza" (University of Rome "La Sapienza")
 - Passionate developer since the age of 11
 
 ### - My Goals:
-- To finish my Bachelor's degree
-- To join Master's degree in "Engineering in Computer Science" at Università degli Studi di Roma "La Sapienza" (University of Rome "La Sapienza")
+- 
 
 ### - My Work 🔭:
 - Owner and Developer of [Volt Scripts](https://twitter.com/volt_scripts)
