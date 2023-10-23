@@ -7,7 +7,7 @@
 - Passionate developer since the age of 11
 
 ### - My Goals:
-- 
+- Improve my coding skills and challenging my self even more
 
 ### - My Work 🔭:
 - Owner and Developer of [Volt Scripts](https://twitter.com/volt_scripts)
