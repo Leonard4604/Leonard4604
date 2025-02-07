@@ -2,8 +2,8 @@
 
 # About Me ⚡:
 ### - My Background 💬:
-- Bachelor's degree in Electronics Engineering at UniBo (University of Bologna)
-- Master's degree student in "Engineering in Computer Science" at Università degli Studi di Roma "La Sapienza" (University of Rome "La Sapienza")
+- Bachelor's degree in Electronics Engineering at Alma Mater Studiorum Università di Bologna
+- Master's degree in "Engineering in Computer Science" at Sapienza Università di Roma
 - Passionate developer since the age of 11
 
 ### - My Goals:
